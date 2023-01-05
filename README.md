@@ -1,6 +1,13 @@
 # Getting Started with Create React App and Redux
+  https://netflix-clone-491a0.web.app/profile
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+
+![Screen-Shot-2023-01-05-at-3 01 20-PM](https://user-images.githubusercontent.com/66817698/210897576-b2c0ca90-df33-4cff-86cf-1c308e3d56d7.jpg)
+<img width="1726" alt="Screen Shot 2023-01-05 at 2 54 21 PM" src="https://user-images.githubusercontent.com/66817698/210897376-a2aaf7c6-8e53-4987-aaaa-5b55fd2f4638.png">
+<img width="1468" alt="Screen Shot 2023-01-04 at 11 33 34 PM" src="https://user-images.githubusercontent.com/66817698/210897396-98bec00d-6a46-43cb-95e2-48cedb43c7f1.png">
+<img width="1711" alt="Screen Shot 2023-01-04 at 5 11 59 PM" src="https://user-images.githubusercontent.com/66817698/210897414-8b1cb043-e797-45d5-80e6-c1fc4c28d816.png">
+
 
 ## Available Scripts
 
