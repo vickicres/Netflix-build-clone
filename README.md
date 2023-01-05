@@ -1,7 +1,8 @@
 # Netflix 2.0 with REACT js (https://netflix-clone-491a0.web.app/profile)
 
 #This project build with (Stripe Checkout & Webhooks, Redux, Firestore, Google Auth)
-<img width="1723" alt="Screen Shot 2023-01-05 at 2 53 27 PM" src="https://user-images.githubusercontent.com/66817698/210895602-41656d1b-ed0d-44e6-9023-02937bcde70d.png">
+
+<img width="1723" alt="Screen Shot 2023-01-05 at 2 53 27 PM" src="https://user-images.githubusercontent.com/66817698/210896828-e7596e6d-1af9-4f37-8a9a-3a200f27a336.png">
 <img width="1726" alt="Screen Shot 2023-01-05 at 2 54 21 PM" src="https://user-images.githubusercontent.com/66817698/210895690-7bff267f-b88d-43d3-be4d-018e94f65f73.png">
 <img width="1468" alt="Screen Shot 2023-01-04 at 11 33 34 PM" src="https://user-images.githubusercontent.com/66817698/210895701-c8c0d7aa-51cb-42c8-a0db-6ae3373de8e9.png">
 <img width="1711" alt="Screen Shot 2023-01-04 at 5 11 59 PM" src="https://user-images.githubusercontent.com/66817698/210895741-512b3e63-91f9-4d73-8964-ff2acc7286d9.png">
